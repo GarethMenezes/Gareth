@@ -1,1 +1,2 @@
-Hi 
+print (Hi there 👋)
+
